@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTreeLibrary", "AVLTreeLibrary\AVLTreeLibrary.csproj", "{97318F15-F82C-419A-8822-DCABD9AD798B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLTreeTests", "AVLTreeTests\AVLTreeTests.csproj", "{37341F5B-6BD1-4655-B145-B91DC05F2CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97318F15-F82C-419A-8822-DCABD9AD798B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97318F15-F82C-419A-8822-DCABD9AD798B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97318F15-F82C-419A-8822-DCABD9AD798B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97318F15-F82C-419A-8822-DCABD9AD798B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37341F5B-6BD1-4655-B145-B91DC05F2CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37341F5B-6BD1-4655-B145-B91DC05F2CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37341F5B-6BD1-4655-B145-B91DC05F2CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37341F5B-6BD1-4655-B145-B91DC05F2CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {590443AD-0953-4548-BA56-598D38F21B01}
+	EndGlobalSection
+EndGlobal
