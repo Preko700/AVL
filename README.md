@@ -1,5 +1,9 @@
 # AVL Tree Implementation in C#
 
+![.NET 8.0](https://img.shields.io/badge/.NET-8.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
 ## Overview
 Este repositorio contiene una implementación completa de árboles AVL (Adelson-Velsky y Landis) en C#. Los árboles AVL son árboles binarios de búsqueda autobalanceados donde la diferencia de altura entre subárboles izquierdo y derecho para cualquier nodo no puede ser más de uno.
 
